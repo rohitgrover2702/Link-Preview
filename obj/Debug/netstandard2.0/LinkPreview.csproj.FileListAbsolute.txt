@@ -1,0 +1,9 @@
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\bin\Debug\netstandard2.0\LinkPreview.deps.json
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\bin\Debug\netstandard2.0\LinkPreview.dll
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.csprojResolveAssemblyReference.cache
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.csproj.CoreCompileInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.AssemblyInfoInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.AssemblyInfo.cs
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\bin\Debug\netstandard2.0\LinkPreview.pdb
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.dll
+D:\Dayuser\Rohit Grover\Official\Project\LinkPreview\LinkPreview\LinkPreview\obj\Debug\netstandard2.0\LinkPreview.pdb
